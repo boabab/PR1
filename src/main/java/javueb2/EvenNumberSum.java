@@ -1,4 +1,4 @@
-package javueb1;
+package javueb2;
 
 // Pflichtübung 1 Aufgabe 2
 
