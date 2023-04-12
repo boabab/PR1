@@ -1,4 +1,3 @@
-target/test-classes/
-javueb1/
-javueb2/
-*.class
+/META-INF/
+/javueb2/
+/javueb1/
